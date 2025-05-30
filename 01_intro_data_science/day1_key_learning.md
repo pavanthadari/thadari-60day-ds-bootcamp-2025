@@ -62,14 +62,3 @@ So it’s **not just me** who’s been confused — it’s a whole messy ecosyst
 
 ---
 
-## 📅 My Reflection
-
-Today felt like opening the first page of a book I always wanted to read.
-
-It’s comforting to know that confusion is normal — even expected. But I’m excited, because now I understand that this 60-day journey isn’t about memorizing buzzwords...
-
-It’s about **learning to solve real problems with data**.
-
-Let’s go 🚀
-
-– *Pavan Thadari*
