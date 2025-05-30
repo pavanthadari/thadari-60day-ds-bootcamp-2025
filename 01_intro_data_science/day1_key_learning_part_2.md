@@ -57,6 +57,5 @@ Here, I’m using patterns, intuition, and statistical tools to **plan the futur
 - I used to think “analysis” and “analytics” were the same — but they’re not.
 - Analysis = explaining the past, Analytics = planning for the future.
 - Both are essential in data science and business decision-making.
-- I now feel more confident reading job roles like “Business Analyst” or “Data Analytics Specialist” because I understand what they truly mean.
 
 
