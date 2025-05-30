@@ -28,12 +28,6 @@ This repository contains my complete journey through the [365 Careers - Complete
 | `08_tableau_outputs` | Tableau dashboards, screenshots |
 | `09_projects` | Personal capstone projects |
 
-## 💡 Goals
-- Complete Udemy course in 60 days
-- Publish notes + notebooks daily
-- Build 3+ real-world ML/DL projects
-- Share weekly progress on LinkedIn
-
 ## 🏷️ Tags
 `#60DaysOfDataScience` `#365CareersBootcamp` `#Python` `#ML` `#DeepLearning`
 
