@@ -1,0 +1,63 @@
+Regression Analysis
+
+### 💡 What is Regression?
+
+* Regression is a **way to make predictions**.
+* You use it when **one thing depends on another**.
+
+  * Example:
+
+    * The more money you earn → the more money you spend.
+    * The more time you study → the better you perform.
+* Regression helps you **find and understand** that kind of relationship.
+
+---
+
+### 🧠 Why is Regression Important?
+
+* It's one of the **main tools** in data science to **predict things**.
+* It helps companies and researchers answer questions like:
+
+  * “If I increase price, will sales go down?”
+  * “Does temperature affect electricity use?”
+* **Used a lot in jobs, projects, and research**.
+
+---
+
+### 🤖 Where Do We Use It?
+
+* **Machine Learning**: Many models (like predicting house prices, sales, etc.) start with regression.
+* **Business**: Forecasting future trends.
+* **Research**: Understanding cause-effect relationships.
+
+---
+
+### 🛠️ What Will You Learn in This Lesson?
+
+* Step-by-step you’ll learn:
+
+  1. **Simple Regression**: One input → one output.
+     *(e.g., hours studied → test score)*
+  2. **Multiple Regression**: Many inputs → one output.
+     *(e.g., hours studied + sleep + attendance → test score)*
+  3. How to:
+
+     * Build a regression model (in Python)
+     * Read the results (understand what it’s saying)
+     * Compare models to see which one is better
+
+---
+
+### 📌 Summary (To Remember Easily):
+
+* **Regression = Prediction + Relationship**
+  Use it when you want to **predict** something based on another thing.
+* It’s a **must-know** skill in data science and machine learning.
+* You’ll learn **how to build, read, and use** regression in real-life situations.
+
+---
+
+### 🧠 One Line to Always Remember:
+
+> **"Regression shows how one thing affects another — and helps you predict what might happen next."**
+
