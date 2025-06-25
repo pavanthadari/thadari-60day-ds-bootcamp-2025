@@ -1,0 +1,67 @@
+# 📊 Correlation vs Regression
+
+> **"Correlation does NOT imply causation."**
+
+---
+
+## 🔗 What is Correlation?
+
+- Correlation measures how **strongly two variables move together**.
+- It does **not** show **cause and effect**.
+- Example:  
+  If study hours increase and grades increase, they are **correlated**,  
+  but we can't say **studying causes better grades** just from correlation.
+
+### ➕ Key Properties:
+- Works **both ways**:  
+  Correlation between `X and Y` = Correlation between `Y and X`.
+- Output is a **single number** (e.g., `0.8`, `-0.6`), showing strength and direction.
+
+---
+
+## ⚙️ What is Regression?
+
+- Regression shows how **one variable affects another**.
+- It's all about **causality** – cause and effect.
+- Example:  
+  More years of education → Higher income ✅  
+  Income → More years of education ❌ (not usually true)
+
+### ➕ Key Properties:
+- Shows **cause and effect** (not just association).
+- Output is a **line**:  
+  e.g., `Y = B0 + B1 * X`
+- Regression of `Y on X` is **not** the same as `X on Y`.
+
+---
+
+## 📊 Visual Difference
+
+| Feature        | Correlation                  | Regression                          |
+|----------------|------------------------------|--------------------------------------|
+| What it shows  | Strength of connection       | Cause and effect                     |
+| Direction      | Symmetric (X to Y = Y to X)  | One-way (X causes Y)                |
+| Output         | A single value (e.g., 0.8)    | A line equation (e.g., Y = mX + c)  |
+| Use Case       | Check if variables relate    | Predict or explain one variable     |
+| Graph Type     | Scatter plot                 | Best-fit line                       |
+
+---
+
+## 💡 Simple Analogy
+
+Imagine two people walk into a room together every day:
+- **Correlation** says: "They seem to show up at the same time!"
+- **Regression** asks: "Is one bringing the other to the room?"
+
+---
+
+## ✅ Summary
+
+- Correlation is for finding **relationships**.
+- Regression is for making **predictions** or explaining **why** one variable changes.
+
+---
+
+🧠 **Remember**:  
+Just because two things are related doesn’t mean one causes the other!
+
