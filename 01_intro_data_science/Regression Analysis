@@ -1,4 +1,5 @@
-# 📘 Regression Analysis – Simple Notes for Beginners
+# 📘 Regression Analysis 
+
 
 ## 💡 What is Regression?
 
@@ -63,14 +64,3 @@ You'll go step-by-step through:
 
 > **"Regression shows how one thing affects another — and helps you predict what might happen next."**
 
----
-
-## ✅ Bonus
-
-- Practice with Python: `scikit-learn`, `statsmodels`
-- Apply on datasets: Housing prices, sales, etc.
-- Learn by doing: Use `.fit()`, check coefficients, visualize with plots!
-
----
-
-*Made for The Complete Data Science Bootcamp 2025*
